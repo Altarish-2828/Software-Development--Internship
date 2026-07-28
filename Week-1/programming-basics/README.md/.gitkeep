@@ -1,1 +1,13 @@
-
+Week 1 Project -My Python Calculator
+This is my submission for the Week 1 task of my Software Development Internship at NexaSecure Tech.
+For this assignment, I had to make a console project to show my programming basics and learn how to use GitHub. I chose to build a simple Calculator using Python because it is very clear and easy to understand.
+How my calculator works:
+1.It shows a neat menu on the screen with options like Add, Subtract, Multiply, Divide, and Exit.
+2.It takes two numbers from the user and gives the quick result right away.
+3.It keeps running in a loop so you can do many calculations together, and it only closes when you choose option 5 to Exit.
+4.If you accidentally type a letter instead of a number, it will not crash, it will just ask you to try again. Also, it checks if you divide by 0 and shows a clear warning.
+Files in this folder:
+calculator.py: This file has my complete Python code.
+screenshot.png: This is the screenshot of my compiler terminal showing that the program runs perfectly.
+How you can run it:
+Just copy my code from calculator.py, paste it into any Python environment or online compiler, and click run.This first week task helped me get comfortable with basic coding logic, handling user inputs, and managing my project folders on GitHub.
